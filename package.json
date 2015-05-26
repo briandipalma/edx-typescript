@@ -4,19 +4,19 @@
   "description": "edX TS course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+	"build": "tsc"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/briandipalma/edx-typescript.git"
+	"type": "git",
+	"url": "git+https://github.com/briandipalma/edx-typescript.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/briandipalma/edx-typescript/issues"
+	"url": "https://github.com/briandipalma/edx-typescript/issues"
   },
   "homepage": "https://github.com/briandipalma/edx-typescript#readme",
   "devDependencies": {
-    "typescript": "^1.5.0-beta"
+	"typescript": "^1.5.0-beta"
   }
 }

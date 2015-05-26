@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"noImplicitAny": true,
+		"outDir": "./dist",
+		"removeComments": true,
+		"rootDir": "./modules",
+		"target": "es5",
+		"watch": true
+	},
+	"files": [
+		"./modules/2/test.ts"
+	]
+}
